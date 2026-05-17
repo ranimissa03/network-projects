@@ -45,9 +45,9 @@ configuré sur Cisco Packet Tracer 8.x.
 ![Topologie](screenshots/topologie.png)
 
 ### Services
-![DHCP](screenshots/dhcp.png)
+![DHCP](screenshots/DHCP.png)
 ![HTTP](screenshots/http.png)
-![FTP](screenshots/ftp.png)
+![FTP](screenshots/FTP.png)
 ![Ping](screenshots/ping.png)
 
 ## ✅ Tests effectués
