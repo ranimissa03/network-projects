@@ -42,13 +42,13 @@ configuré sur Cisco Packet Tracer 8.x.
 
 ## 📸 Screenshots
 ### Topologie complète
-![Topologie](screenshots/topologie.png)
+![Topologie](screenshots/topologie.png.png)
 
 ### Services
-![DHCP](screenshots/DHCP.png)
-![HTTP](screenshots/http.png)
-![FTP](screenshots/FTP.png)
-![Ping](screenshots/ping.png)
+![DHCP](screenshots/DHCP.png.png)
+![HTTP](screenshots/http.png.png)
+![FTP](screenshots/FTP.png.png)
+![Ping](screenshots/ping.png.png)
 
 ## ✅ Tests effectués
 - [x] Ping entre tous les appareils
